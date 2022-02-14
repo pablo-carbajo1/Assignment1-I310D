@@ -1,4 +1,4 @@
-# Assignment1-I310D
+# Assignment1-I310D - Comparing the different enrolled hours by UT students during the Fall 2020 semester 
 
 This project talks about the number of hours that students at the University of Texas at Austin took during the Fall 2020 semester. The main goal of this project is to see the different number of hours students were enrolled in during this semester. In this project, I also compare the number of hours students were enrolled in based on their gender.
 
