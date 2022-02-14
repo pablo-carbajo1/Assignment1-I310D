@@ -7,5 +7,3 @@ This project's data is under an MIT license and the data was obtained from UT's 
 The 4 attributes that I used are based on enrolled hours. So, under 12 enrolled hours, 12 enrolled hours, 15 enrolled hours and 18 enrolled hours. I represented this data with binary numbers, 0 meaning "Yes" and 1 meaning "No"
 
 However, the data might be inaccurate because I used 20 responses on the poll, which is not a big enough sample to properly represent the actual percentages and numbers of hours that students were enrolled in during that semester.
-
-### Libraries used for the visualization of the data 
